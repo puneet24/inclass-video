@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "classnames": "^2.3.1",
+    "moment": "^2.29.1",
+    "node-sass": "^4.0.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "styled-components": "^5.2.3",
+    "twilio-video": "^2.13.1"
   },
   "scripts": {
     "dev": "BROWSER=none react-scripts start",

@@ -1,0 +1,15 @@
+.blurLayer {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  backdrop-filter: blur(10px);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #db463f;
+  text-shadow: 2px 2px 4px #000;
+  background: rgba(360, 360, 360, 0.05);
+}
